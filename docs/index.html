@@ -41,27 +41,19 @@
   <link rel="stylesheet" href="/assets/css/mobile-divbar.css">
   <link rel="stylesheet" href="/assets/css/message-box.css">
   <link rel="stylesheet" href="/assets/font/IRANSans.css">
-  <link rel="stylesheet" href="/assets/css/firstPage.css">
+  <link rel="stylesheet" href="/assets/css/docsPage.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png">
   <link rel="manifest" href="/assets/json/manifest.json">
   <title>EnterACE | اینتر ایس</title>
 </head>
 <body class="custom">
-
-  <div class="message-background-cover" id="message-box">
-    <div class="message-box">
-      <h1 id="message-title"></h1>
-      <p id="message-message"></p>
-      <button class="message-okay" onclick="close_message()">بستن</button>
-    </div>
-  </div>
   <nav>
     <h1 class="logo">EnterACE</h1>
     <button class="open-mobile-divbar" onclick="toggle_mobile_divbar()">منو</button>
     <ul>
-      <li><a href="#" class="active">خانه</a></li>
-      <li><a href="/docs/">مقاله ها</a></li>
+      <li><a href="/" >خانه</a></li>
+      <li><a href="#" class="active">مقاله ها</a></li>
       <li><a href="/contact-us/">تماس با ما</a></li>
     </ul>
   </nav>
@@ -71,24 +63,29 @@
   <div class="mobile-divbar" id="mobile-divbar">
     <ul>
       <li><button class="close" onclick="toggle_mobile_divbar()">بستن</button></li>
-      <li><a href="#">خانه</a></li>
-      <li><a href="/docs/">مقاله ها</a></li>
+      <li><a href="/">خانه</a></li>
+      <li><a href="#">مقاله ها</a></li>
       <li><a href="/contact-us/">تماس با ما</a></li>
     </ul>
   </div>
   <div class="main-container">
-    <div class="document-container" id="document-container"></div>
+    <div class="searcher">
+      <button class="search-button" onclick="search_for_document()">جستجو</button>
+      <input class="search-input" placeholder="جستجو . . ." type="text" id="searchInput">
+      
+    </div>
+    
+    <div class="search-container" id="searchContainer">
+    </div>
   </div>
 
   
 
   <script src="/assets/js/open-mobile-divbar.js"></script>
+  <script src="/assets/js/document-searcher.js"></script>
   <script src="/assets/js/pwa.js"></script>
-  <script src="/assets/js/markdown-writer.js"></script>
-  <script src="/assets/js/message-handler.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
 
-  <script>get_write_document("/api/static/index.md", "document-container")</script>
 
 
 </body>

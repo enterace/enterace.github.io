@@ -1,0 +1,105 @@
+nav {
+    transition: color 1s ease;
+    transition: opacity 1s ease;
+    opacity: 0.7;
+    height: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    text-align: right;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(45deg, rgb(0, 0, 0), rgb(32, 32, 32));
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+nav button.open-mobile-divbar{
+    display: none;
+    transition: background-color color 1s ease;
+    transition: color 0.3s ease;
+    list-style-type: none;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    float: right;
+    margin: 10px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+nav button.open-mobile-divbar:hover{
+    transition: background-color color 1s ease;
+    transition: color 0.3s ease;
+    background-color: rgb(213, 241, 238);
+    color: rgb(0, 0, 0);
+}
+
+nav  h1.logo {
+    list-style-type: none;
+    text-shadow: 2px 2px 4px rgba(241, 241, 241, 0.5);
+    font-size: 30px;
+    float: left;
+    margin: 20px;
+    padding: 0;
+}
+
+    
+
+nav ul {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width: 920px) {
+    nav ul{
+        display: none;
+    }
+
+    nav button.open-mobile-divbar{
+        display: block;
+    }
+
+}
+
+
+nav  ul li {
+    display: inline-block;
+    margin: 10px;
+}
+    
+nav ul li a {
+    transition: color 0.3s ease;
+    font-size: 20px;
+    display: block;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    color: rgb(184, 184, 184);
+    text-shadow: 2px 2px 4px rgba(49, 133, 60, 0.5);
+    text-decoration: none;
+}
+
+nav ul li a.active {
+    transition: color 0.3s ease;
+    font-size: 20px;
+    display: block;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 4px rgba(49, 133, 60, 0.5);
+    text-decoration: none;
+}
+
+nav  ul li a:hover {
+    transition: color 0.3s ease;
+    color: rgb(255, 255, 255);
+}

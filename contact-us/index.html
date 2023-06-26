@@ -60,9 +60,9 @@
     <h1 class="logo">EnterACE</h1>
     <button class="open-mobile-divbar" onclick="toggle_mobile_divbar()">منو</button>
     <ul>
-      <li><a href="#" class="active">خانه</a></li>
+      <li><a href="/">خانه</a></li>
       <li><a href="/docs/">مقاله ها</a></li>
-      <li><a href="/contact-us/">تماس با ما</a></li>
+      <li><a href="#" class="active">تماس با ما</a></li>
     </ul>
   </nav>
 
@@ -71,9 +71,9 @@
   <div class="mobile-divbar" id="mobile-divbar">
     <ul>
       <li><button class="close" onclick="toggle_mobile_divbar()">بستن</button></li>
-      <li><a href="#">خانه</a></li>
+      <li><a href="/">خانه</a></li>
       <li><a href="/docs/">مقاله ها</a></li>
-      <li><a href="/contact-us/">تماس با ما</a></li>
+      <li><a href="#">تماس با ما</a></li>
     </ul>
   </div>
   <div class="main-container">
@@ -88,7 +88,7 @@
   <script src="/assets/js/message-handler.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
 
-  <script>get_write_document("/api/static/index.md", "document-container")</script>
+  <script>get_write_document("/api/static/contactus.md", "document-container")</script>
 
 
 </body>

@@ -1,0 +1,46 @@
+div.mobile-divbar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 200px;
+  background-color: #f1f1f1;
+  z-index: 9999;
+  overflow-y: auto;
+  display: none;
+}
+
+div.mobile-divbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+div.mobile-divbar li {
+  transition: background-color 0.3s ease;
+  text-align: right;
+  font-size: 20px;
+  background-color: rgb(255, 255, 255);
+}
+
+div.mobile-divbar li a {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: #333;
+}
+
+div.mobile-divbar li button.close {
+  display: block;
+  padding: 10px 15px;
+  
+  border: none;
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0);
+  color: #333;
+}
+
+div.mobile-divbar li:hover {
+  transition: background-color 0.3s ease;
+  background-color: #999494;
+}
