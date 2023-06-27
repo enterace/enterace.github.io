@@ -9,6 +9,11 @@
             "Title": "دستورات مقدماتی ترمینال لینوکس",
             "Description": "آموزش کل دستورات مورد استفاده در ترمینال لینوکس.",
             "Location": "/docs/basic-linux-commands/"
+        },
+        {
+            "Title": "راهنمای استفاده از Google Cloud Shell",
+            "Description": "معرفی Google Cloud Shell و نحوه استفاده از آن.",
+            "Location": "/docs/google-cloud-shell-introduction/"
         }
     ]
 }
