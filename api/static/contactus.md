@@ -5,7 +5,7 @@
 ---
 راه های ارتباطی:
 
-- [کانال آپارات](https://www.aparat.com/EnterAce)
+<!-- [کانال آپارات](https://www.aparat.com/EnterAce) -->
 - [کانال پیام رسان بله](https://ble.ir/enterace)
 - [کانال پیام رسان ایتا](https://eitaa.com/enterace)
 
