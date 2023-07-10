@@ -19,6 +19,24 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://enterace.ir/docs/ipv4-subneting/index.html</loc>
+    <lastmod>2023-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://enterace.ir/docs/google-cloud-shell-introduction/index.html</loc>
+    <lastmod>2023-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://enterace.ir/docs/basic-linux-commands/index.html</loc>
+    <lastmod>2023-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://enterace.ir/docs/index.html</loc>
     <lastmod>2023-06-26</lastmod>
     <changefreq>daily</changefreq>
