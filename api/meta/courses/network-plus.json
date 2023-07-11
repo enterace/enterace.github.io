@@ -34,6 +34,21 @@
             "Title": "قسمت هفتم: برسی دستور ping و قابلیت Bridge در ویندوز.",
             "Description": "در حد آشنایی با قابلیت Bridge در ویندوز.",
             "Location": "/courses/network-plus/7/"
+        },
+        {
+            "Title": "قسمت هشتم: معرفی و برسی Router ها",
+            "Description": "نگاهی جامع به Router ها و چرایی استفاده از آنها.",
+            "Location": "/courses/network-plus/8/"
+        },
+        {
+            "Title": "قسمت نهم: برسی دستورات ping و tracert",
+            "Description": "برسی کامل دستورات مرتبط با پروتکل ICMP به صورت کاربردی.",
+            "Location": "/courses/network-plus/9/"
+        },
+        {
+            "Title": "قسمت دهم: آشنایی با Firewall و مفهوم آن.",
+            "Description": "آشنایی با Firewall و علت نیاز به آن و نحوه کار آن.",
+            "Location": "/courses/network-plus/10/"
         }
 
     ]
