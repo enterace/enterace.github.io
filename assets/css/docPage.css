@@ -68,26 +68,26 @@ div.main-container div.document-container a:hover {
 
 div.main-container div.doc-info-container{
     width: 60%;
-    height: 100px;
+    height: 80px;
     scrollbar-color: rgba(0,0,0,0);
-    border-radius: 20px;
+    border-radius: 5px;
     background-color: rgba(19, 19, 19, 0.801);
     color: rgb(255,255,255);
     box-shadow: 4px 4px 8px rgba(54, 54, 54, 0.397);
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     margin-left: 20%;
     margin-right: 20%;
-    padding: 20px;
+    padding: 5px;
 }
 
 div.main-container div.document-container{
     width: 60%;
-    height: calc(100% - 140px);
+    height: calc(100% - 100px);
     overflow-x: hidden;
     overflow-y: scroll;
     scrollbar-color: rgba(0,0,0,0);
-    border-radius: 20px;
+    border-radius: 5px;
     background-color: rgba(19, 19, 19, 0.801);
     color: rgb(255,255,255);
     box-shadow: 4px 4px 8px rgba(54, 54, 54, 0.397);
@@ -101,17 +101,17 @@ div.main-container div.document-container{
 
 @media (max-width: 920px) {
     div.main-container div.document-container{
-        width: calc(100% - 10px);
-        height: calc(100% - 110px);
-        margin-left: 5px;
-        margin-right: 5px;
+        width: 100%;
+        height: calc(100% - 90px);
+        margin-left: 1px;
+        margin-right: 1px;
         margin-top: 5px;
         margin-bottom: 5px;
     }
     div.main-container div.doc-info-container {
-        width: calc(100% - 10px);
-        margin-left: 5px;
-        margin-right: 5px;
+        width: 100%;
+        margin-left: 1px;
+        margin-right: 1px;
         margin-top: 5px;
         margin-bottom: 5px;
     }

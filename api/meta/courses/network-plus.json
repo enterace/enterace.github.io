@@ -1,0 +1,40 @@
+{
+    "list": [
+        {
+            "Title": "قسمت اول: معرفی اصطلاحات پر استفاده در طول دوره",
+            "Description": "تمامی اصطلاحات سخت و پر استفاده در طول این دوره.",
+            "Location": "/courses/network-plus/1/"
+        },
+        {
+            "Title": "قسمت دوم: معرفی لایه های OSI",
+            "Description": "معرفی تمام هفت لایه OSI.",
+            "Location": "/courses/network-plus/2/"
+        },
+        {
+            "Title": "قسمت سوم: معرفی نرم افزار Wireshark",
+            "Description": "معرفی wireshark درحد شناخت سطحی.",
+            "Location": "/courses/network-plus/3/"
+        },
+        {
+            "Title": "قسمت چهارم: تفاوت آدرس دهی منطقی و فیزیکی در شبکه",
+            "Description": "تفاوت های کلی بین آدرس دهی منطقی و فیزیکی در شبکه.",
+            "Location": "/courses/network-plus/4/"
+        },
+        {
+            "Title": "قسمت پنجم: معرفی Hub و Bridge و Switch",
+            "Description": "تفاوت های کلی بین Hub و Bridge و Switch به علاوه یک سری مفاهیم اضافه بر آنها.",
+            "Location": "/courses/network-plus/5/"
+        },
+        {
+            "Title": "قسمت ششم: Switch ها",
+            "Description": "نگاهی عمیق تر به Switch ها و انواع آنها.",
+            "Location": "/courses/network-plus/6/"
+        },
+        {
+            "Title": "برسی دستور ping و قابلیت Bridge در ویندوز.",
+            "Description": "در حد آشنایی با قابلیت Bridge در ویندوز.",
+            "Location": "/courses/network-plus/7/"
+        }
+
+    ]
+}
