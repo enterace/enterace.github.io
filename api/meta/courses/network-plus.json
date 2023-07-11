@@ -49,7 +49,38 @@
             "Title": "قسمت دهم: آشنایی با Firewall و مفهوم آن.",
             "Description": "آشنایی با Firewall و علت نیاز به آن و نحوه کار آن.",
             "Location": "/courses/network-plus/10/"
+        },
+        {
+            "Title": "قسمت یازدهم: معرفی Rule و Option های مربوط به آن در Firewall ویندوز.",
+            "Description": "معرفی تمامی مسائل مرتبط با Firewall ویندوز.",
+            "Location": "/courses/network-plus/11/"
+        },
+        {
+            "Title": "قسمت دوازدهم: معرفی Well known ports",
+            "Description": "همراه با توضیحات برای هر یک از سرویس هایی که از این پورت ها استفاده میکنند.",
+            "Location": "/courses/network-plus/12/"
+        },
+        {
+            "Title": "قسمت سیزدهم: معرفی Load balancing و Load balancer ها",
+            "Description": "معرفی مسئله مهم Load balancing و علت نیاز شدید به آن.",
+            "Location": "/courses/network-plus/13/"
+        },
+        {
+            "Title": "قسمت چهاردهم: معرفی Modem",
+            "Description": "نگاهی کلی و جامع به دستگاه Modem.",
+            "Location": "/courses/network-plus/14/"
+        },
+        {
+            "Title": "قسمت پانزدهم: معرفی IDS و IPS",
+            "Description": "نگاهی کامل به NIDS, HIDS, NIPS, HIPS.",
+            "Location": "/courses/network-plus/15/"
+        },
+        {
+            "Title": "قسمت شانزدهم: معرفی Traffic shaper و Content filter",
+            "Description": "نگاهی به کارکرد و کاربرد دو سخت افزار مهم در سطح سازمانی و گسترده.",
+            "Location": "/courses/network-plus/16/"
         }
+
 
     ]
 }
