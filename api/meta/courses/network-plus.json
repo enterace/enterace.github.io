@@ -79,6 +79,11 @@
             "Title": "قسمت شانزدهم: معرفی Traffic shaper و Content filter",
             "Description": "نگاهی به کارکرد و کاربرد دو سخت افزار مهم در سطح سازمانی و گسترده.",
             "Location": "/courses/network-plus/16/"
+        },
+        {
+            "Title": "قسمت هفدهم: معرفی WAP و استاندارد های آن.",
+            "Description": "معرفی نقطه دسترسی بی سیم و استاندارد های آن از گذشته تا حال.",
+            "Location": "/courses/network-plus/17/"
         }
 
 
