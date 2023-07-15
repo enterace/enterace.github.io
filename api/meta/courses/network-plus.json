@@ -84,6 +84,71 @@
             "Title": "قسمت هفدهم: معرفی WAP و استاندارد های آن.",
             "Description": "معرفی نقطه دسترسی بی سیم و استاندارد های آن از گذشته تا حال.",
             "Location": "/courses/network-plus/17/"
+        },
+        {
+            "Title": "قسمت هجدهم: معرفی سرویس DHCP و کاربرد آن در شبکه",
+            "Description": "معرفی سرویس و پروتوکل DHCP و نحوه کارکرد آن.",
+            "Location": "/courses/network-plus/18/"
+        },
+        {
+            "Title": "قسمت نوزدهم: نحوه مشاهده فرایند DHCP در نرم افزار Wireshark.",
+            "Description": "برای مشاهده و برسی صحت فرایند DHCP چه کنیم.",
+            "Location": "/courses/network-plus/19/"
+        },
+        {
+            "Title": "قسمت بیستم: معرفی DNS و نحوه کار آن",
+            "Description": "معرفی نحوه کار DNS و سلسله مراتب کاری آن.",
+            "Location": "/courses/network-plus/20/"
+        },
+        {
+            "Title": "قسمت بیست و یکم: نحوه تغییر یک DNS record",
+            "Description": "نحوه تغییر ایجاد کردن در فایل HOSTS و نحوه تایین DNS record در Windows server.",
+            "Location": "/courses/network-plus/21/"
+        },
+        {
+            "Title": "قسمت بیست و دوم: معرفی پروتکل ARP",
+            "Description": "نگاهی کامل به پروتکل ARP و دستور arp در ویندوز و همچنین نحوه برسی آن در نرم افزار Wireshark.",
+            "Location": "/courses/network-plus/22/"
+        },
+        {
+            "Title": "قسمت بیست و سوم: مفاهیم کامل IP و Subnetting",
+            "Description": "معرفی آدرس IP و IP addressing و Subbneting و VLSM و CIDR.",
+            "Location": "/courses/network-plus/23/"
+        },
+        {
+            "Title": "قسمت بیست و چهارم: نحوه انجام دادن یک Subnetting",
+            "Description": "حل یک مساله Subbneting همراه با توضیحات.",
+            "Location": "/courses/network-plus/24/"
+        },
+        {
+            "Title": "قسمت بیست و پنجم: نحوه قرار دادن آدرس IP در روتر سیسکو و لینوکس و ویندوز",
+            "Description": "توضیحات کامل راجع به نحوه پیکره بندی آیپی استاتیک در هر کدام.",
+            "Location": "/courses/network-plus/25/"
+        },
+        {
+            "Title": "قسمت بیست و ششم: معرفی NAT و PAT و SNAT و DNAT",
+            "Description": "توضیحات مربوط به NAT و PAT و SNAT و DNAT.",
+            "Location": "/courses/network-plus/26/"
+        },
+        {
+            "Title": "قسمت بیست و هفتم: نحوه راه اندازی NAT در Windows server",
+            "Description": "راهنمای قدم به قدم راه اندازی NAT در ویندوز سرور.",
+            "Location": "/courses/network-plus/27/"
+        },
+        {
+            "Title": "قسمت بیست و هشتم: معرفی Static route و Dynamic route",
+            "Description": "به علاوه نحوه انجام دادن آن در روتر سیسکو",
+            "Location": "/courses/network-plus/28/"
+        },
+        {
+            "Title": "قسمت بیست و نهم: نحوه انجام Static route و Default route در ویندوز سرور.",
+            "Description": "همراه با دستورات جدید مربوط به ویندوز.",
+            "Location": "/courses/network-plus/29/"
+        },
+        {
+            "Title": "قسمت سی ام: معرفی کامل و جامع Dynamic routing",
+            "Description": "همه چیز راجع به Dynamic routing به علاوه نحوه استفاده آن در روتر سیسکو.",
+            "Location": "/courses/network-plus/30/"
         }
 
 
