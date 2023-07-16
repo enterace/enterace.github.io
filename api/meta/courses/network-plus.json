@@ -149,6 +149,66 @@
             "Title": "قسمت سی ام: معرفی کامل و جامع Dynamic routing",
             "Description": "همه چیز راجع به Dynamic routing به علاوه نحوه استفاده آن در روتر سیسکو.",
             "Location": "/courses/network-plus/30/"
+        },
+        {
+            "Title": "قسمت سی و یکم: معرفی پروتکل های TCP و UDP",
+            "Description": "تفاوت اصلی دو پروتکل انتقال داده.",
+            "Location": "/courses/network-plus/31/"
+        },
+        {
+            "Title": "قسمت سی و دوم: مفاهیم مربوط به برسی ترافیک",
+            "Description": "اشاره به چند راه برسی ترافیک در داخل شبکه.",
+            "Location": "/courses/network-plus/32/"
+        },
+        {
+            "Title": "قسمت سی و سوم: معرفی مفاهیم Encapsulation و Decapsulation",
+            "Description": "اشاره به مفاهیم موجود در فریم های شبکه.",
+            "Location": "/courses/network-plus/33/"
+        },
+        {
+            "Title": "قسمت سی و چهارم: معرفی VLAN",
+            "Description": "به همراه نحوه تظیم آند در سوچ سیسکو.",
+            "Location": "/courses/network-plus/34/"
+        },
+        {
+            "Title": "قسمت سی و پنجم: مفهوم Trunk و Trunking",
+            "Description": "معرفی استاندارد 802.1Q.",
+            "Location": "/courses/network-plus/35/"
+        },
+        {
+            "Title": "قسمت سی و ششم: نحوه انجام Trunking در دو سویچ سیسکو",
+            "Description": "انجام یک Trunking ساده",
+            "Location": "/courses/network-plus/36/"
+        },
+        {
+            "Title": "قسمت سی و هفتم: معرفی پروتکل Spanning tree",
+            "Description": "یک پروتکل برای حل مشکل Broadcast storm.",
+            "Location": "/courses/network-plus/37/"
+        },
+        {
+            "Title": "قسمت سی و هشتم: مفاهیم مدیریتی تجهیزات شبکه",
+            "Description": "چگونه باید در یک سویچ یا روتر تنظیمات انجام داد و کلی چیز دیگه.",
+            "Location": "/courses/network-plus/38/"
+        },
+        {
+            "Title": "قسمت سی و نهم: معرفی مفهوم Port bonding",
+            "Description": "به همراه پیاده سازی آن در سویچ سیسکو.",
+            "Location": "/courses/network-plus/39/"
+        },
+        {
+            "Title": "قسمت چهل ام: مفاهیم مربوط به Port mirroring",
+            "Description": "به علاوه مفاهیم مربوط به SPAN و RSPAN و RAP.",
+            "Location": "/courses/network-plus/40/"
+        },
+        {
+            "Title": "قسمت چهل و یکم: معرفی چندین دستور سویچ های سیسکو",
+            "Description": "مفاهیم تکمیلی سویچ ها.",
+            "Location": "/courses/network-plus/41/"
+        },
+        {
+            "Title": "قسمت چهل و دوم: معرفی Wireless",
+            "Description": "مفاهیم تکمیلی مربوط به Wireless.",
+            "Location": "/courses/network-plus/42/"
         }
 
 
