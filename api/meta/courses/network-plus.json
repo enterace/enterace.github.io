@@ -249,7 +249,109 @@
             "Title": "قسمت پنجاه ام: معرفی چند ابزار نرم افزاری و فیزیکی رفع اشکال شبکه",
             "Description": "یه لیست کوچولو از ابزار هایی که ممکن است به آشنایی با آنها نیاز داشته باشید.",
             "Location": "/courses/network-plus/50/"
+        },
+        {
+            "Title": "قسمت پنجاه و یکم: مشکلات معمول شبکه بی سیم",
+            "Description": "آشنایی با مشکلات شبکه های بی سیم.",
+            "Location": "/courses/network-plus/51/"
+        },
+        {
+            "Title": "قسمت پنجاه و دوم: مشکلات معمول در داخل شبکه",
+            "Description": "آشنایی با مشکلات شبکه ها.",
+            "Location": "/courses/network-plus/52/"
+        },
+        {
+            "Title": "قسمت پنجاه و سوم: آشنایی با شبکه WAN",
+            "Description": "همراه با انواع استاندارد های آن.",
+            "Location": "/courses/network-plus/53/"
+        },
+        {
+            "Title": "قسمت پنجاه و چهارم: تکنولوژی های مورد استفاده در WAN",
+            "Description": "",
+            "Location": "/courses/network-plus/54/"
+        },
+        {
+            "Title": "قسمت پنجاه و پنجم: معرفی VPN",
+            "Description": "و پروتکل ها و کلی چیز دیگه.",
+            "Location": "/courses/network-plus/55/"
+        },
+        {
+            "Title": "قسمت پنجاه و ششم: معرفی مجازی سازی",
+            "Description": "",
+            "Location": "/courses/network-plus/56/"
+        },
+        {
+            "Title": "قسمت پنجاه و هفتم: ساخت ماشین مجازی ویندوز در محیط مجازی",
+            "Description": "",
+            "Location": "/courses/network-plus/57/"
+        },
+        {
+            "Title": "قسمت پنجاه و هشتم: معرفی نرم افزار های packet tracer و  gns3",
+            "Description": "",
+            "Location": "/courses/network-plus/58/"
+        },
+        {
+            "Title": "قسمت پنجاه و نهم: معرفی ابزار های ذخیره سازی در شبکه",
+            "Description": "معرفی DAS & NAS & SAN",
+            "Location": "/courses/network-plus/59/"
+        },
+        {
+            "Title": "قسمت شصت ام: نحوه راه اندازی FreeNAS",
+            "Description": "",
+            "Location": "/courses/network-plus/60/"
+        },
+        {
+            "Title": "قسمت شصت و یکم: معرفی IPv6",
+            "Description": "به علاوه استاندارد های آن.",
+            "Location": "/courses/network-plus/61/"
+        },
+        {
+            "Title": "قسمت شصت و دوم: معرفی Fault tolerance در Default gateway",
+            "Description": "روش جلوگیری از Single point of failure.",
+            "Location": "/courses/network-plus/62/"
+        },
+        {
+            "Title": "قسمت شصت و سوم: سوالات مهم در هنگام راه اندازی شبکه",
+            "Description": "چند تا سوال اساسی که باید از خودمون بپرسیم.",
+            "Location": "/courses/network-plus/63/"
+        },
+        {
+            "Title": "قسمت شصت و چهارم: امنیت فیزیکی مورد نیاز برای حفاظت از شبکه",
+            "Description": "معرفی چند مورد از امنیت فیزیکی برای حفاظت از شبکه.",
+            "Location": "/courses/network-plus/64/"
+        },
+        {
+            "Title": "قسمت شصت و پنجم: پشتیبانی الکتریکی از شبکه",
+            "Description": "معرفی چند مورد از پشتیبان های الکتریکی شبکه.",
+            "Location": "/courses/network-plus/65/"
+        },
+        {
+            "Title": "قسمت شصت و ششم: انواع توپولوژی شبکه",
+            "Description": "معرفی چند مورد از توپولوژی های شبکه.",
+            "Location": "/courses/network-plus/66/"
+        },
+        {
+            "Title": "قسمت شصت و هفتم: تفاوت شبکه های P2P و Client/Server",
+            "Description": "",
+            "Location": "/courses/network-plus/67/"
+        },
+        {
+            "Title": "قسمت شصت و هشتم: نقش ایزوله کردن در امنیت شبکه",
+            "Description": "Honeypot و DMZ و ... چیستند.",
+            "Location": "/courses/network-plus/68/"
+        },
+        {
+            "Title": "قسمت شصت و نهم: ارتباطات یکپارچه",
+            "Description": "QoS چه نقشی در شبکه دارد.",
+            "Location": "/courses/network-plus/69/"
+        },
+        {
+            "Title": "قسمت هفتاد ام: ابزار های مانیتورینگ شبکه",
+            "Description": "معرفی چندین تکنیک خاص برای برسی و مانیتورینگ شبکه.",
+            "Location": "/courses/network-plus/70/"
         }
+
+
 
 
 
