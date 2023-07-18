@@ -14,22 +14,18 @@ div.main-container {
     width: calc(100% - 40px);
     height: calc(100vh - 140px);
     border-radius: 20px;
-    background-color:  rgb(37, 37, 37);
-    box-shadow: 4px 4px 8px rgba(54, 54, 54, 0.397);
     margin: 20px;
-    padding: 20px;
 }
 
 div.main-container div.searcher{
     width: 60%;
     height: 100px;
     scrollbar-color: rgba(0,0,0,0);
-    border-radius: 20px;
-    background-color: rgba(19, 19, 19, 0.801);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: rgb(19, 19, 19);
     color: rgb(255,255,255);
-    box-shadow: 4px 4px 8px rgba(54, 54, 54, 0.397);
     margin-top: 20px;
-    margin-bottom: 20px;
     margin-left: 20%;
     margin-right: 20%;
     padding: 20px;
@@ -41,11 +37,10 @@ div.main-container div.search-container{
     overflow-x: hidden;
     overflow-y: scroll;
     scrollbar-color: rgba(0,0,0,0);
-    border-radius: 20px;
-    background-color: rgba(19, 19, 19, 0.801);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: rgb(19, 19, 19);
     color: rgb(255,255,255);
-    box-shadow: 4px 4px 8px rgba(54, 54, 54, 0.397);
-    margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 20%;
     margin-right: 20%;
@@ -53,23 +48,24 @@ div.main-container div.search-container{
 }
 
 div.main-container div.search-container div.search-item{
-    width: calc(100% - 40px);
+    width: calc(100% - 10px);
     scrollbar-color: rgba(0,0,0,0);
-    border-radius: 20px;
+    border-radius: 5px;
     background-color: rgba(59, 59, 59, 0.801);
     color: rgb(255,255,255);
     box-shadow: 4px 4px 8px rgba(54, 54, 54, 0.397);
-    margin: 20px;
-    padding: 20px;
+    margin: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
 }
 
 div.main-container div.search-container div.search-item button.open-document{
     padding: 10px 20px;
     background-color: #4CAF50;
     border: none;
-    border-radius: 4px;
+    border-radius: 5px;
     color: white;
-    font-size: 16px;
+    font-size: 12px;
     cursor: pointer;
     margin-left: 10px;
 }
@@ -108,15 +104,11 @@ div.main-container div.searcher button.search-button {
         height: calc(100% - 110px);
         margin-left: 5px;
         margin-right: 5px;
-        margin-top: 5px;
-        margin-bottom: 5px;
     }
     div.main-container div.searcher {
         width: calc(100% - 10px);
         margin-left: 5px;
         margin-right: 5px;
-        margin-top: 5px;
-        margin-bottom: 5px;
     }
 }
 div.main-container div.search-container::-webkit-scrollbar {

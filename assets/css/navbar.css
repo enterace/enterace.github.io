@@ -6,7 +6,7 @@ nav {
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 20px;
-    border-radius: 20px;
+    border-radius: 5px;
     text-align: right;
     color: rgb(255, 255, 255);
     background: linear-gradient(45deg, rgb(0, 0, 0), rgb(32, 32, 32));
@@ -22,7 +22,7 @@ nav button.open-mobile-divbar{
     color: rgb(255, 255, 255);
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     border: none;
-    border-radius: 20px;
+    border-radius: 5px;
     font-size: 20px;
     float: right;
     margin: 10px;
@@ -80,23 +80,14 @@ nav ul li a {
     margin-top: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    border-radius: 20px;
     color: rgb(184, 184, 184);
     text-shadow: 2px 2px 4px rgba(49, 133, 60, 0.5);
     text-decoration: none;
 }
 
 nav ul li a.active {
-    transition: color 0.3s ease;
-    font-size: 20px;
-    display: block;
-    margin-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-    border-radius: 20px;
     color: rgb(255, 255, 255);
     text-shadow: 2px 2px 4px rgba(49, 133, 60, 0.5);
-    text-decoration: none;
 }
 
 nav  ul li a:hover {

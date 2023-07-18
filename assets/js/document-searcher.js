@@ -41,7 +41,7 @@ function create_search_item_for_search_container(search_items_container, documen
     const document_html_item = document.createElement('div');
     document_html_item.classList.add('search-item');
 
-    const document_html_title = document.createElement('h1');
+    const document_html_title = document.createElement('h2');
     document_html_title.textContent = document_title;
 
     const document_html_description = document.createElement('p');
