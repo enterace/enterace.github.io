@@ -349,6 +349,116 @@
             "Title": "قسمت هفتاد ام: ابزار های مانیتورینگ شبکه",
             "Description": "معرفی چندین تکنیک خاص برای برسی و مانیتورینگ شبکه.",
             "Location": "/courses/network-plus/70/"
+        },
+        {
+            "Title": "قسمت هفتاد و یکم: معرفی چند ابزار مانیتورینگ در دنیای واقعی",
+            "Description": "چند نرم افزار کاربردی مانیتورینگ که حتما به کار خواهند آمد.",
+            "Location": "/courses/network-plus/71/"
+        },
+        {
+            "Title": "قسمت هفتاد و دوم: انواع پروتکل های مسیریابی",
+            "Description": "معرفی شش پروتکل مسیریابی مورد استفاده در روتر ها",
+            "Location": "/courses/network-plus/72/"
+        },
+        {
+            "Title": "قسمت هفتاد و سوم: نحوه monitor کردن interface های سویچ سیسکو",
+            "Description": "معرفی دستورات ترمینال سیسکو برای interface monitoring.",
+            "Location": "/courses/network-plus/73/"
+        },
+        {
+            "Title": "قسمت هفتاد و چهارم: معرفی انواع سوکت ها و کانکتور ها و نحوه نصب آنها و ابزار های مورد نیاز",
+            "Description": "",
+            "Location": "/courses/network-plus/74/"
+        },
+        {
+            "Title": "قسمت هفتاد و پنجم: مدیریت تنظیمات و استفاده از Baseline",
+            "Description": "Baseline چیست و چه کاربردی در شبکه و امنیت دارد.",
+            "Location": "/courses/network-plus/75/"
+        },
+        {
+            "Title": "قسمت هفتاد و ششم: معرفی بستر Cloud",
+            "Description": "ابر یا Cloud چیست و چه استفاده ای دارد.",
+            "Location": "/courses/network-plus/76/"
+        },
+        {
+            "Title": "قسمت هفتاد و هفتم: معرفی Patch management",
+            "Description": "Patch management چیست و چه استفاده ای دارد.",
+            "Location": "/courses/network-plus/77/"
+        },
+        {
+            "Title": "قسمت هفتاد و هشتم: معرفی Risk management",
+            "Description": "مقابله با ریسک در شبکه چه اهمیتی دارد.",
+            "Location": "/courses/network-plus/78/"
+        },
+        {
+            "Title": "قسمت هفتاد و نهم: معرفی حملات DoS و DDoS",
+            "Description": "حملات از دسترس خارج کردن چه تاثیری دارند.",
+            "Location": "/courses/network-plus/79/"
+        },
+        {
+            "Title": "قسمت هشتاد ام: نحوه راه اندازی یک حمله DoS ساده",
+            "Description": "معرفی نحوه انجام دادن حمله DoS توسط برنامه لینوکسی HPing3 و تاثیرات آن.",
+            "Location": "/courses/network-plus/80/"
+        },
+        {
+            "Title": "قسمت هشتاد و یکم: انواع آسیب پذیری های شبکه های بی سیم",
+            "Description": "EvilTwin و BlueBugging چیستند.",
+            "Location": "/courses/network-plus/81/"
+        },
+        {
+            "Title": "قسمت هشتاد و دوم: معرفی آسیب پذیری ها در سطح شبکه",
+            "Description": "معرفی چند نوع حمله در داخل شبکه ها.",
+            "Location": "/courses/network-plus/82/"
+        },
+        {
+            "Title": "قسمت هشتاد و سوم: معرفی امنیت در سطح سویچ ها",
+            "Description": "معرفی چند نوع مکانیزم امنیتی در داخل سویچ.",
+            "Location": "/courses/network-plus/83/"
+        },
+        {
+            "Title": "قسمت هشتاد و چهارم: پروتکل های امنیتی در شبکه",
+            "Description": "معرفی چند نوع پروتکل ها و دستورالعمل های امنیتی در سطح شبکه.",
+            "Location": "/courses/network-plus/84/"
+        },
+        {
+            "Title": "قسمت هشتاد و پنجم: معرفی قابلیت های Firewall",
+            "Description": "معرفی چند Firewall معروف.",
+            "Location": "/courses/network-plus/85/"
+        },
+        {
+            "Title": "قسمت هشتاد و ششم: مدل کنترل دسترسی در شبکه چیست",
+            "Description": "معرفی Access control model",
+            "Location": "/courses/network-plus/86/"
+        },
+        {
+            "Title": "قسمت هشتاد و هفتم: مسائل قانونی مربوط به جرایم رایانه ای و رسیدگی به آنها",
+            "Description": "",
+            "Location": "/courses/network-plus/87/"
+        },
+        {
+            "Title": "قسمت هشتاد و هشتم: مشکلات معمول امنیتی در سازمان ها",
+            "Description": "معرفی چند مشکل معمول امنیتی در سازمان های بزرگ.",
+            "Location": "/courses/network-plus/88/"
+        },
+        {
+            "Title": "قسمت هشتاد و نهم: مفهوم CIA",
+            "Description": "Confidentiality, Availability, Integrity",
+            "Location": "/courses/network-plus/89/"
+        },
+        {
+            "Title": "قسمت نود ام: خط مشی و دستور العمل ها در مراکز داده",
+            "Description": "معرفی اقدامات ایمنی در مراکز داده ها.",
+            "Location": "/courses/network-plus/90/"
+        },
+        {
+            "Title": "قسمت نود و یکم: مدیریت تغییرات",
+            "Description": "معرفی سامانه Change management.",
+            "Location": "/courses/network-plus/91/"
+        },
+        {
+            "Title": "قسمت نود و دوم: پایان دوره",
+            "Description": "",
+            "Location": "/courses/network-plus/92/"
         }
 
 
