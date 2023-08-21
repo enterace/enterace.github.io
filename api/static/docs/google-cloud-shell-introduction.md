@@ -2,8 +2,6 @@
 
 Google Cloud Shell یک محیط توسعه و مدیریت بر اساس وب برای اجرای دستورات در Google Cloud Platform (GCP) است. با استفاده از Cloud Shell، می‌توانید دستورات را مستقیماً در مرورگر خود اجرا کرده و به منابع و سرویس‌های مختلف GCP دسترسی پیدا کنید. این محیط دارای یک محیط مطالعه پیش‌فرض با دسترسی به ابزارهای مفید مانند Google Cloud SDK، Docker، Git و غیره است.
 
-در این مقاله، به شما نحوه کار با Google Cloud Shell را در قالب یک فایل Markdown (`.md`) توضیح خواهیم داد.
-
 ## مراحل استفاده از Google Cloud Shell
 
 1. باز کردن مرورگر: برای شروع، به آدرس [https://shell.cloud.google.com](https://shell.cloud.google.com/) در مرورگر خود بروید.
