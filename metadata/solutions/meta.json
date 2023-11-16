@@ -1,0 +1,15 @@
+{
+    "list":[
+        {
+            "name": "EnterPass",
+            "description": "Password manager",
+            "tags": [
+                "cryptography",
+                "security"
+            ],
+            "link":"enterpass",
+            "source":"https://github.com/enterace/EnterPass",
+            "latest": "https://github.com/enterace/EnterPass/releases/download/1.0.0-Windows-x86-x64/enterpass-v1.0.0-Windows-x86-x64.exe"
+        }
+    ]
+}
