@@ -1,0 +1,15 @@
+{
+    "list":[
+        {
+            "name": "How to install Kali linux on virtual box",
+            "description": "A quick guide for installing kali linux on virtual box.",
+            "tags": [
+                "hacking",
+                "cybersecurity",
+                "linux",
+                "pentesting"
+            ],
+            "link":"kali-vm-setup"
+        }
+    ]
+}

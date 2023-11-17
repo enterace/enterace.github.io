@@ -40,11 +40,11 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Exo" >
   <link rel="stylesheet" href="/assets/css/navbar.css">
   <link rel="stylesheet" href="/assets/css/loading.css">
-  <link rel="stylesheet" href="/assets/css/root.css">
+  <link rel="stylesheet" href="/assets/css/resources/root.css">
   
   <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png">
   <link rel="manifest" href="/assets/json/manifest.json">
-  <title>Enter ACE</title>
+  <title>Explore resources</title>
 </head>
 <body class="custom">
 
@@ -56,22 +56,17 @@
     <img class="logo" src="/assets/images/favicon.png" aria-placeholder="EnterACE">
     <button class="open-menu" onclick="toggle_mobile_navbar();"><i class="fa fa-bars"></i></button>
     <div id="items-list">
-      <button class="open-panel" onclick="window.location.href='/solutions'">Solutions</button>
-      <button class="open-panel" onclick="window.location.href='/resources'">Resources</button>
-      <button class="open-panel" onclick="window.location.href='/support'">Support</button>
+        <button class="open-panel" onclick="window.location.href='/'">Home</button>
     </div>
   </nav>
 
-  <div class="hero-container">
-    <div class="hero">
-      <h1 id="hero-header">Stay open source. Stay secure.</h1>
-    </div>
+  <div id="resources-list">
   </div>
   
 
   <script src="/assets/js/pwa.js"></script>
   <script src="/assets/js/loading.js"></script>
   <script src="/assets/js/mobile-navbar.js"></script>
-  
+  <script src="/assets/js/resources/resource-explorer.js"></script>
 </body>
 </html>
