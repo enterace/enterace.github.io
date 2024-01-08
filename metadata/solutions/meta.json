@@ -10,6 +10,17 @@
             "link":"enterpass",
             "source":"https://github.com/enterace/EnterPass",
             "latest": "https://github.com/enterace/EnterPass/releases/"
+        },
+        {
+            "name": "Notebook",
+            "description": "Open-source .net maui note taking cross-platform application",
+            "tags": [
+                "cross-platform",
+                "utility"
+            ],
+            "link":"notebook",
+            "source":"https://github.com/enterace/Notebook",
+            "latest": "https://github.com/enterace/Notebook/releases/"
         }
     ]
 }
