@@ -21,7 +21,7 @@ async function read_markdown(name) {
 async function load_solution(){
     var solution_name = document.getElementById("solution-name")
     var source_opener = document.getElementById("source-opener")
-    var windows_downloader = document.getElementById("release-downloader")
+    var release_downloader = document.getElementById("release-downloader")
     solution_name.textContent = "Not found"
     if(
         params.has('id')
@@ -35,7 +35,7 @@ async function load_solution(){
                     window.location.href = item.source
                 });
 
-                windows_downloader.addEventListener("click", function() {
+                release_downloader.addEventListener("click", function() {
                     window.location.href = item.latest
                 });
             }
