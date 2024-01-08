@@ -21,7 +21,7 @@ async function read_markdown(name) {
 async function load_solution(){
     var solution_name = document.getElementById("solution-name")
     var source_opener = document.getElementById("source-opener")
-    var windows_downloader = document.getElementById("windows-downloader")
+    var windows_downloader = document.getElementById("release-downloader")
     solution_name.textContent = "Not found"
     if(
         params.has('id')
