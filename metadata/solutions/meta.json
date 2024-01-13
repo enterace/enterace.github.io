@@ -13,7 +13,7 @@
         },
         {
             "name": "Notebook",
-            "description": "Open-source .net maui note taking cross-platform application",
+            "description": "Open-source .NET MAUI note taking cross-platform application",
             "tags": [
                 "cross-platform",
                 "utility"
@@ -21,6 +21,18 @@
             "link":"notebook",
             "source":"https://github.com/enterace/Notebook",
             "latest": "https://github.com/enterace/Notebook/releases/"
+        },
+        {
+            "name": "DownTube",
+            "description": "A simple cross platform native youtube downloader built with .NET MAUI",
+            "tags": [
+                "cross-platform",
+                "utility",
+                "youtube"
+            ],
+            "link":"downtube",
+            "source":"https://github.com/enterace/DownTube",
+            "latest": "https://github.com/enterace/DownTube/releases/"
         }
     ]
 }
